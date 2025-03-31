@@ -1,0 +1,616 @@
+[
+  {
+    "ref": "c07e6c97-7b67-4d57-8a6e-065d859ed927",
+    "keyword": "094a6044a23fa93e7e1d1ae6c769cb6d",
+    "answer": "Hola amor",
+    "options": {},
+    "from": "573123976437",
+    "refSerialize": "094a6044a23fa93e7e1d1ae6c769cb6d"
+  },
+  {
+    "ref": "ans_3742e9ca-c635-41a5-9d85-f18b00bc9aa7",
+    "keyword": "key_77aa516e-2e69-4d2f-a8d4-3c8dbb761ca9",
+    "answer": "🙌 Hola bienvenido a este *Chatbot*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "edc3708a02ec29244c3648998b754237",
+    "from": "573123976437"
+  },
+  {
+    "ref": "ans_c7668bd7-75ae-4161-85fc-aaa916e38d74",
+    "keyword": "ans_3742e9ca-c635-41a5-9d85-f18b00bc9aa7",
+    "answer": "te comparto los siguientes links de interes sobre el proyecto\n👉 *doc* para ver la documentación\n👉 *gracias*  para ver la lista de videos\n👉 *discord* unirte al discord",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [
+        {
+          "ref": "key_7fb0485f-9b81-428b-9de0-8f59d5e770c1",
+          "keyword": [
+            "doc",
+            "documentacion",
+            "documentación"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "f15c5b8220075276f0a11610f81f298f"
+        },
+        {
+          "ref": "ans_679e3a4f-3dbf-4975-a521-ea1ac2476b63",
+          "keyword": "key_7fb0485f-9b81-428b-9de0-8f59d5e770c1",
+          "answer": "📄 Aquí encontras las documentación recuerda que puedes mejorarla\nhttps://bot-whatsapp.netlify.app/\n\n*2* Para siguiente paso.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_6ba94a15-bc53-46eb-9f85-bde5d7a3dc74",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_3fc7d305-b4c0-4163-adca-37d25a7f566b",
+                "keyword": "key_6ba94a15-bc53-46eb-9f85-bde5d7a3dc74",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "83ca4356c57af87f91d8f68e10952784"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "ac946e58fbdf355ef8cdb322b3557e8b"
+        },
+        {
+          "ref": "key_24ca9545-1435-47e0-9b91-ab3457c269b0",
+          "keyword": [
+            "gracias",
+            "grac"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "1fe6b9002925caf13f444479e73d4434"
+        },
+        {
+          "ref": "ans_37c0fc84-6115-4919-b3dd-c1913035939b",
+          "keyword": "key_24ca9545-1435-47e0-9b91-ab3457c269b0",
+          "answer": "🚀 Puedes aportar tu granito de arena a este proyecto\n[*opencollective*] https://opencollective.com/bot-whatsapp\n[*buymeacoffee*] https://www.buymeacoffee.com/leifermendez\n[*patreon*] https://www.patreon.com/leifermendez\n\n*2* Para siguiente paso.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_6ba94a15-bc53-46eb-9f85-bde5d7a3dc74",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_3fc7d305-b4c0-4163-adca-37d25a7f566b",
+                "keyword": "key_6ba94a15-bc53-46eb-9f85-bde5d7a3dc74",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "83ca4356c57af87f91d8f68e10952784"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "b08f5e1a433f6707bf2db883d52d5925"
+        },
+        {
+          "ref": "key_78d7d0ac-41f7-40c8-94be-530099b1f65e",
+          "keyword": [
+            "tutorial",
+            "tuto"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "5155dd58eba463ddd0effa966e7db620"
+        },
+        {
+          "ref": "ans_b67ea0f6-2fbd-44cb-a7f9-4e20f6e804a9",
+          "keyword": "key_78d7d0ac-41f7-40c8-94be-530099b1f65e",
+          "answer": "🙌 Aquí encontras un ejemplo rapido\nhttps://bot-whatsapp.netlify.app/docs/example/\n\n*2* Para siguiente paso.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_6ba94a15-bc53-46eb-9f85-bde5d7a3dc74",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_3fc7d305-b4c0-4163-adca-37d25a7f566b",
+                "keyword": "key_6ba94a15-bc53-46eb-9f85-bde5d7a3dc74",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "83ca4356c57af87f91d8f68e10952784"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "8e883597c46cef788a41a7d6d5efb0b9"
+        },
+        {
+          "ref": "key_739afa55-3ddf-4dda-bf23-519e391b7a11",
+          "keyword": [
+            "discord"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "be744c19342592b913373a1f8728649c"
+        },
+        {
+          "ref": "ans_b1da89ed-4a1b-482c-a35b-70f7ef2728e9",
+          "keyword": "key_739afa55-3ddf-4dda-bf23-519e391b7a11",
+          "answer": "🤪 Únete al discord\nhttps://link.codigoencasa.com/DISCORD\n\n*2* Para siguiente paso.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_6ba94a15-bc53-46eb-9f85-bde5d7a3dc74",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_3fc7d305-b4c0-4163-adca-37d25a7f566b",
+                "keyword": "key_6ba94a15-bc53-46eb-9f85-bde5d7a3dc74",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "83ca4356c57af87f91d8f68e10952784"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "399e8ae9b0f54a63cecbd6d6b111110b"
+        }
+      ],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "8dc5ebbf75a40e92f65ba4377bedecc7",
+    "from": "573123976437"
+  },
+  {
+    "ref": "ans_3742e9ca-c635-41a5-9d85-f18b00bc9aa7",
+    "keyword": "key_77aa516e-2e69-4d2f-a8d4-3c8dbb761ca9",
+    "answer": "🙌 Hola bienvenido a este *Chatbot*",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "edc3708a02ec29244c3648998b754237",
+    "from": "573113839278"
+  },
+  {
+    "ref": "ans_c7668bd7-75ae-4161-85fc-aaa916e38d74",
+    "keyword": "ans_3742e9ca-c635-41a5-9d85-f18b00bc9aa7",
+    "answer": "te comparto los siguientes links de interes sobre el proyecto\n👉 *doc* para ver la documentación\n👉 *gracias*  para ver la lista de videos\n👉 *discord* unirte al discord",
+    "options": {
+      "media": null,
+      "buttons": [],
+      "capture": false,
+      "child": null,
+      "delay": 0,
+      "idle": null,
+      "ref": null,
+      "nested": [
+        {
+          "ref": "key_7fb0485f-9b81-428b-9de0-8f59d5e770c1",
+          "keyword": [
+            "doc",
+            "documentacion",
+            "documentación"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "f15c5b8220075276f0a11610f81f298f"
+        },
+        {
+          "ref": "ans_679e3a4f-3dbf-4975-a521-ea1ac2476b63",
+          "keyword": "key_7fb0485f-9b81-428b-9de0-8f59d5e770c1",
+          "answer": "📄 Aquí encontras las documentación recuerda que puedes mejorarla\nhttps://bot-whatsapp.netlify.app/\n\n*2* Para siguiente paso.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_6ba94a15-bc53-46eb-9f85-bde5d7a3dc74",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_3fc7d305-b4c0-4163-adca-37d25a7f566b",
+                "keyword": "key_6ba94a15-bc53-46eb-9f85-bde5d7a3dc74",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "83ca4356c57af87f91d8f68e10952784"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "ac946e58fbdf355ef8cdb322b3557e8b"
+        },
+        {
+          "ref": "key_24ca9545-1435-47e0-9b91-ab3457c269b0",
+          "keyword": [
+            "gracias",
+            "grac"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "1fe6b9002925caf13f444479e73d4434"
+        },
+        {
+          "ref": "ans_37c0fc84-6115-4919-b3dd-c1913035939b",
+          "keyword": "key_24ca9545-1435-47e0-9b91-ab3457c269b0",
+          "answer": "🚀 Puedes aportar tu granito de arena a este proyecto\n[*opencollective*] https://opencollective.com/bot-whatsapp\n[*buymeacoffee*] https://www.buymeacoffee.com/leifermendez\n[*patreon*] https://www.patreon.com/leifermendez\n\n*2* Para siguiente paso.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_6ba94a15-bc53-46eb-9f85-bde5d7a3dc74",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_3fc7d305-b4c0-4163-adca-37d25a7f566b",
+                "keyword": "key_6ba94a15-bc53-46eb-9f85-bde5d7a3dc74",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "83ca4356c57af87f91d8f68e10952784"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "b08f5e1a433f6707bf2db883d52d5925"
+        },
+        {
+          "ref": "key_78d7d0ac-41f7-40c8-94be-530099b1f65e",
+          "keyword": [
+            "tutorial",
+            "tuto"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "5155dd58eba463ddd0effa966e7db620"
+        },
+        {
+          "ref": "ans_b67ea0f6-2fbd-44cb-a7f9-4e20f6e804a9",
+          "keyword": "key_78d7d0ac-41f7-40c8-94be-530099b1f65e",
+          "answer": "🙌 Aquí encontras un ejemplo rapido\nhttps://bot-whatsapp.netlify.app/docs/example/\n\n*2* Para siguiente paso.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_6ba94a15-bc53-46eb-9f85-bde5d7a3dc74",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_3fc7d305-b4c0-4163-adca-37d25a7f566b",
+                "keyword": "key_6ba94a15-bc53-46eb-9f85-bde5d7a3dc74",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "83ca4356c57af87f91d8f68e10952784"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "8e883597c46cef788a41a7d6d5efb0b9"
+        },
+        {
+          "ref": "key_739afa55-3ddf-4dda-bf23-519e391b7a11",
+          "keyword": [
+            "discord"
+          ],
+          "options": {
+            "sensitive": false,
+            "regex": false
+          },
+          "refSerialize": "be744c19342592b913373a1f8728649c"
+        },
+        {
+          "ref": "ans_b1da89ed-4a1b-482c-a35b-70f7ef2728e9",
+          "keyword": "key_739afa55-3ddf-4dda-bf23-519e391b7a11",
+          "answer": "🤪 Únete al discord\nhttps://link.codigoencasa.com/DISCORD\n\n*2* Para siguiente paso.",
+          "options": {
+            "media": null,
+            "buttons": [],
+            "capture": false,
+            "child": null,
+            "delay": 0,
+            "idle": null,
+            "ref": null,
+            "nested": [
+              {
+                "ref": "key_6ba94a15-bc53-46eb-9f85-bde5d7a3dc74",
+                "keyword": [
+                  "2",
+                  "siguiente"
+                ],
+                "options": {
+                  "sensitive": false,
+                  "regex": false
+                },
+                "refSerialize": "dbd7d4c0cf9448a3bda6293a6665acae"
+              },
+              {
+                "ref": "ans_3fc7d305-b4c0-4163-adca-37d25a7f566b",
+                "keyword": "key_6ba94a15-bc53-46eb-9f85-bde5d7a3dc74",
+                "answer": "📄 Aquí tenemos el flujo secundario",
+                "options": {
+                  "media": null,
+                  "buttons": [],
+                  "capture": false,
+                  "child": null,
+                  "delay": 0,
+                  "idle": null,
+                  "ref": null,
+                  "nested": [],
+                  "keyword": {},
+                  "callback": false
+                },
+                "refSerialize": "83ca4356c57af87f91d8f68e10952784"
+              }
+            ],
+            "keyword": {},
+            "callback": false
+          },
+          "refSerialize": "399e8ae9b0f54a63cecbd6d6b111110b"
+        }
+      ],
+      "keyword": {},
+      "callback": false
+    },
+    "refSerialize": "8dc5ebbf75a40e92f65ba4377bedecc7",
+    "from": "573113839278"
+  },
+  {
+    "ref": "ebdbe61d-db9f-4185-9691-8609eed408cf",
+    "keyword": "8dc5ebbf75a40e92f65ba4377bedecc7",
+    "answer": "Amor entonces voy a llamar a tu tía ya confirmarle",
+    "options": {},
+    "from": "573123976437",
+    "refSerialize": "076adc7e34ecd32cb05a99d9f1b34867"
+  },
+  {
+    "ref": "1a41cfcb-a6e9-4301-a11f-84d73700e866",
+    "keyword": "076adc7e34ecd32cb05a99d9f1b34867",
+    "answer": "Cierto?",
+    "options": {},
+    "from": "573123976437",
+    "refSerialize": "0513edc106e7679386e5fc632155923f"
+  },
+  {
+    "ref": "6d5ee611-bd84-4286-8c73-8e7b977e6257",
+    "keyword": "0513edc106e7679386e5fc632155923f",
+    "answer": "https://app.powerbi.com/links/HmfHGV5N_1?ctid=a2ba4345-7764-4d22-b6a1-7cf528f3b3a5&pbi_source=linkShare",
+    "options": {},
+    "from": "573123976437",
+    "refSerialize": "3118d5d37ec7cc0fbbd4695cf2a21e8a"
+  },
+  {
+    "ref": "3709bcf3-9c08-4643-aecb-df998eb082b0",
+    "keyword": "3118d5d37ec7cc0fbbd4695cf2a21e8a",
+    "answer": "https://app.powerbi.com/groups/1ee79660-65b5-4f6d-a44d-17dc719ad0df/reports/e3dbb8b8-9b4d-4530-92dc-2df7804c7567?ctid=a2ba4345-7764-4d22-b6a1-7cf528f3b3a5&pbi_source=linkShare",
+    "options": {},
+    "from": "573123976437",
+    "refSerialize": "75aebd52ae5d84521298410f451b9248"
+  },
+  {
+    "ref": "e333c067-ace9-4dc6-9f8a-b35703abbd99",
+    "keyword": "75aebd52ae5d84521298410f451b9248",
+    "answer": "https://app.powerbi.com/view?r=eyJrIjoiODc4MTJjOGQtZDRiMC00ZTMzLThlM2UtZThmZWU0NjMxM2M5IiwidCI6ImEyYmE0MzQ1LTc3NjQtNGQyMi1iNmExLTdjZjUyOGYzYjNhNSIsImMiOjR9",
+    "options": {},
+    "from": "573123976437",
+    "refSerialize": "f3aa8fef835386823ee878053cd51d5c"
+  }
+]
